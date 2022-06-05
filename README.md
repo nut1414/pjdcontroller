@@ -1,6 +1,10 @@
 # pjdcontroller
 ## This repo contained 3d model and project files for 3D Printed PJD Controller
 ### Files are provided AS IS with no support and you are free to do as you like with them.
+
+[slider](https://github.com/nut1414/pjdcontroller/blob/master/withslider.png?raw=true)
+[noslider](https://github.com/nut1414/pjdcontroller/blob/master/noslider.png?raw=true)
+
 >> You might notice there are protusion on the body, those are for capacitive touch sensor that was left unfinished. You can edit them out and export the files yourself in fusion 360 project file: pjdcontrollerv26.f3z (be warn: its pretty messy) or used the already edited out version provided.
 
 ## 3D Printed Parts
@@ -18,6 +22,7 @@
 | screwconnectorbinder.stl | 6 |
 | sliderplateright.stl | 2 |
 | sliderplateleft.stl.stl | 2 |
+
 for the main body you can use ```(noslider)``` version without needing the ```sliderplate[left/right].stl```
 
 ## Other Parts
